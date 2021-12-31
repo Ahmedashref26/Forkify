@@ -7,6 +7,8 @@
 
 # Forkify
 
+[![Forkify](./src/img/g1.gif)](./src/img/g1.gif)
+
 A beautiful recipe search engine made with modern JavaScript features 😋 
 
 the application support searching for recipe, bookmark recipe, and custom recipe uploads.
@@ -17,7 +19,7 @@ It's built with modern JavaScript features and the MVC architecture.
 
 Clone the Project 
 ```bash
-git clone https://github.com/Ahmedashref26/Chirper.git
+git clone https://github.com/Ahmedashref26/Forkify.git
 ``` 
 Install the dependencies 
 ```bash
