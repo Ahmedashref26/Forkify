@@ -4,7 +4,7 @@ const TIMEOUT_SEC = 10;
 
 const RES_PER_PAGE = 10;
 
-const KEY = 'd543a6d1-45dc-4c21-9df8-65a58c9508c1';
+const KEY = '01bb1bc0-6ba1-4615-bb6e-34f6cc2649e4';
 
 const MODAL_CLOSE_SEC = 2.5;
 
